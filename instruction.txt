@@ -1,0 +1,1 @@
+error page cretaion: Error page should be crated in app route. and the file name should be not-found.js
