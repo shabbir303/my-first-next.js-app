@@ -1,1 +1,2 @@
 error page cretaion: Error page should be crated in app route. and the file name should be not-found.js
+Loading router creation: loading page o ekivabe app route er moddhe create korte hobe
