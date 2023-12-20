@@ -1,2 +1,6 @@
-error page cretaion: Error page should be crated in app route. and the file name should be not-found.js
+not-found page cretaion: Error page should be crated in app route. and the file name should be not-found.js
 Loading router creation: loading page o ekivabe app route er moddhe create korte hobe
+error page cretaion: error page should be a client page. so when we use error page we must write "use client" in the top of the page
+
+Dynamic route: when we create dynamic route we must create folder in [] under it.
+Group route: when we create group route we must create folder in () under it.

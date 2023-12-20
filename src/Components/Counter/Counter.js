@@ -1,6 +1,8 @@
 import { useState } from "react";
 
+
 const Counter = () => {
+  // throw new Error;
   const [count, setCount] = useState(0);
   return (
     <div>
