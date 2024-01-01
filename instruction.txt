@@ -7,3 +7,9 @@ Group route: when we create group route we must create folder in () under it.
 
 title: eta change korar jonno meta data use korte hobe
 navigate: etar jonno <Link href="/about"/> use korte hobe 
+
+absolute path: @/ dile absolute path bola hoi. jokhon amra jani element kothai ace tokhon use kori
+relative path: ../ dile use kora hoi
+egulo jsconfig.json file e dewa ace
+
+metadata: amader seo friendly website create korte help kore
