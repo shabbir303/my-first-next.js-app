@@ -4,3 +4,6 @@ error page cretaion: error page should be a client page. so when we use error pa
 
 Dynamic route: when we create dynamic route we must create folder in [] under it.
 Group route: when we create group route we must create folder in () under it.
+
+title: eta change korar jonno meta data use korte hobe
+navigate: etar jonno <Link href="/about"/> use korte hobe 
